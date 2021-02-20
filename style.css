@@ -1,0 +1,21 @@
+.intro{
+  
+    height:300px;
+    width: 100%;
+    /* background-color: #ccc; */
+    padding: 10px;
+}
+
+.card{
+    float: left;
+    margin-right: 20px;
+}
+
+.card.text-center{
+    width: 100%;
+}
+
+.carousel-caption{
+    opacity: 0.8;
+    /* margin-bottom: 100px; */
+}
